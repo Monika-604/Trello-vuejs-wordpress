@@ -4,6 +4,16 @@ We create a VueJS interface to interact with the API of a WordPress application.
 Nous créons une interface VueJS pour interagir avec l'API d'une application WordPress. L'objectif est, basé sur le site Web de Trello.
 
 
+L'adresse de Trello Website :
+
+http://trello.monikab.ir/
+
+Panel Admin   Wordpress pour le test:
+
+http://monikab.ir/trello-wp/wp-admin
+user: admin
+pass: =N15ko64_c;*
+
 
 ## Project setup
 ```
